@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Verhamme | R.A. Meyer</title>
+    <link>https://rameyer.github.io/author/a.-verhamme/</link>
+      <atom:link href="https://rameyer.github.io/author/a.-verhamme/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Verhamme</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rameyer.github.io/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Verhamme</title>
+      <link>https://rameyer.github.io/author/a.-verhamme/</link>
+    </image>
+    
+    <item>
+      <title>Double-peaked Lyman-alpha emission at z=6.803: a reionisation-era galaxy self-ionising its local H II bubble</title>
+      <link>https://rameyer.github.io/publication/a370pz1/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://rameyer.github.io/publication/a370pz1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

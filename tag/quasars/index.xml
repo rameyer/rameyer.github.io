@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quasars | R.A. Meyer</title>
+    <link>https://rameyer.github.io/tag/quasars/</link>
+      <atom:link href="https://rameyer.github.io/tag/quasars/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quasars</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2019 14:05:19 +0100</lastBuildDate>
+    <image>
+      <url>https://rameyer.github.io/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_2.png</url>
+      <title>Quasars</title>
+      <link>https://rameyer.github.io/tag/quasars/</link>
+    </image>
+    
+    <item>
+      <title>New Constraints on Quasar Evolution: Broad Line Velocity Shifts over 1.5≲z≲7.5</title>
+      <link>https://rameyer.github.io/publication/qso_bel_offsets/</link>
+      <pubDate>Wed, 29 May 2019 14:05:19 +0100</pubDate>
+      <guid>https://rameyer.github.io/publication/qso_bel_offsets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Quasi-stellar objects acting as potential strong gravitational lenses in the SDSS-III BOSS survey </title>
+      <link>https://rameyer.github.io/publication/boss_qsolens/</link>
+      <pubDate>Wed, 13 Mar 2019 14:05:09 +0100</pubDate>
+      <guid>https://rameyer.github.io/publication/boss_qsolens/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

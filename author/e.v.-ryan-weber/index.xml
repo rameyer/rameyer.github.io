@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E.V. Ryan-Weber | R.A. Meyer</title>
+    <link>https://rameyer.github.io/author/e.v.-ryan-weber/</link>
+      <atom:link href="https://rameyer.github.io/author/e.v.-ryan-weber/index.xml" rel="self" type="application/rss+xml" />
+    <description>E.V. Ryan-Weber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2020 14:04:54 +0100</lastBuildDate>
+    <image>
+      <url>https://rameyer.github.io/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_2.png</url>
+      <title>E.V. Ryan-Weber</title>
+      <link>https://rameyer.github.io/author/e.v.-ryan-weber/</link>
+    </image>
+    
+    <item>
+      <title>The role of galaxies and AGN in reionising the IGM - III : IGM-galaxy cross-correlations at $z\sim 6$ from 8 quasar fields with DEIMOS and MUSE</title>
+      <link>https://rameyer.github.io/publication/paper3/</link>
+      <pubDate>Tue, 09 Jun 2020 14:04:54 +0100</pubDate>
+      <guid>https://rameyer.github.io/publication/paper3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
