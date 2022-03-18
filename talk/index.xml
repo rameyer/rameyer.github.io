@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | R.A. Meyer</title>
+    <link>https://rameyer.github.io/talk/</link>
+      <atom:link href="https://rameyer.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rameyer.github.io/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://rameyer.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Measuring the escape fraction of ionising photons of z~6 galaxies</title>
+      <link>https://rameyer.github.io/talk/sazerac2020/</link>
+      <pubDate>Tue, 07 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://rameyer.github.io/talk/sazerac2020/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/9nf_9NQD-_4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

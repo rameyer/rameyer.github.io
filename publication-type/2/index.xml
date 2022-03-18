@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | R.A. Meyer</title>
+    <link>https://rameyer.github.io/publication-type/2/</link>
+      <atom:link href="https://rameyer.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rameyer.github.io/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://rameyer.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Double-peaked Lyman-alpha emission at z=6.803: a reionisation-era galaxy self-ionising its local H II bubble</title>
+      <link>https://rameyer.github.io/publication/a370pz1/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://rameyer.github.io/publication/a370pz1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of galaxies and AGN in reionising the IGM - III : IGM-galaxy cross-correlations at $z\sim 6$ from 8 quasar fields with DEIMOS and MUSE</title>
+      <link>https://rameyer.github.io/publication/paper3/</link>
+      <pubDate>Tue, 09 Jun 2020 14:04:54 +0100</pubDate>
+      <guid>https://rameyer.github.io/publication/paper3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Constraints on Quasar Evolution: Broad Line Velocity Shifts over 1.5≲z≲7.5</title>
+      <link>https://rameyer.github.io/publication/qso_bel_offsets/</link>
+      <pubDate>Wed, 29 May 2019 14:05:19 +0100</pubDate>
+      <guid>https://rameyer.github.io/publication/qso_bel_offsets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Quasi-stellar objects acting as potential strong gravitational lenses in the SDSS-III BOSS survey </title>
+      <link>https://rameyer.github.io/publication/boss_qsolens/</link>
+      <pubDate>Wed, 13 Mar 2019 14:05:09 +0100</pubDate>
+      <guid>https://rameyer.github.io/publication/boss_qsolens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of galaxies and AGNs in reionizing the IGM - II. Metal-tracing the faint sources of reionization at 5 ≲ z ≲ 6</title>
+      <link>https://rameyer.github.io/publication/paper2/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://rameyer.github.io/publication/paper2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

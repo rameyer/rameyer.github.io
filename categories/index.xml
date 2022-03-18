@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | R.A. Meyer</title>
+    <link>https://rameyer.github.io/categories/</link>
+      <atom:link href="https://rameyer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://rameyer.github.io/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://rameyer.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
