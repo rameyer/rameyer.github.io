@@ -1,172 +1,161 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://rameyer.github.io/publication-type/2/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/a.-pensabene/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/a.-weiss/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/authors/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/b.-venemans/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/c.-cicone/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/c.-mazzuchelli/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/publication/muse_alma_scuba_qsooverdensity/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/d.-riechers/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/e.-banados/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/e.-p.-farina/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/f.-walter/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/m.-novak/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/publication/j1148p5251_lines/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/publication_types/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/publication/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/q.-li/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/tag/quasars-sub-mm/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/r.-decarli/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/r.-neri/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/r.-wan/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/r.a.-meyer/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/tags/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/talk/ml_sip2022/</loc>
+    <lastmod>2022-02-02T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/talk/</loc>
+    <lastmod>2022-02-02T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/author/romain-a.-meyer/</loc>
+    <lastmod>2022-02-02T17:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rameyer.github.io/talk/qgtct/</loc>
+    <lastmod>2022-01-25T09:50:00+00:00</lastmod>
+  </url><url>
     <loc>https://rameyer.github.io/author/a.-verhamme/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rameyer.github.io/authors/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/publication/a370pz1/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/tag/high-z-galaxies/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/n.-laporte/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rameyer.github.io/publication_types/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rameyer.github.io/publication/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rameyer.github.io/author/r.a.-meyer/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rameyer.github.io/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/r.s.-ellis/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/t.-garel/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rameyer.github.io/tags/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/talk/sazerac2020/</loc>
     <lastmod>2020-07-07T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rameyer.github.io/talk/</loc>
-    <lastmod>2020-07-07T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rameyer.github.io/author/romain-a.-meyer/</loc>
-    <lastmod>2020-07-07T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/a.-zitrin/</loc>
     <lastmod>2020-06-09T14:04:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/b.e.-robertson/</loc>
     <lastmod>2020-06-09T14:04:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/e.v.-ryan-weber/</loc>
     <lastmod>2020-06-09T14:04:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/tag/igm-reionisation/</loc>
     <lastmod>2020-06-09T14:04:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/k.-kakiichi/</loc>
     <lastmod>2020-06-09T14:04:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/k.-mawatari/</loc>
     <lastmod>2020-06-09T14:04:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/s.e.i.-bosman/</loc>
     <lastmod>2020-06-09T14:04:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/publication/paper3/</loc>
     <lastmod>2020-06-09T14:04:54+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/publication/qso_bel_offsets/</loc>
     <lastmod>2019-05-29T14:05:19+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/tag/quasars/</loc>
     <lastmod>2019-05-29T14:05:19+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/publication/boss_qsolens/</loc>
     <lastmod>2019-03-13T14:05:09+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/f.-courbin/</loc>
     <lastmod>2019-03-13T14:05:09+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/j.-p.-kneib/</loc>
     <lastmod>2019-03-13T14:05:09+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/t.-delubac/</loc>
     <lastmod>2019-03-13T14:05:09+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/publication/paper2/</loc>
     <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://rameyer.github.io/author/romain-a.-meyer/</loc>
   </url>
-  
 </urlset>

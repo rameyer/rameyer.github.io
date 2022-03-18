@@ -1,0 +1,18 @@
+{
+  "name": "R.A. Meyer",
+  "short_name": "R.A. Meyer",
+  "lang": "en-us",
+  "theme_color": "#ff9700",
+  "background_color": "#ff9700",
+  "icons": [{
+    "src": "/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
