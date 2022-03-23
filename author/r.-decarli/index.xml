@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Decarli | R.A. Meyer</title>
+    <link>https://rameyer.github.io/author/r.-decarli/</link>
+      <atom:link href="https://rameyer.github.io/author/r.-decarli/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Decarli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rameyer.github.io/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_3.png</url>
+      <title>R. Decarli</title>
+      <link>https://rameyer.github.io/author/r.-decarli/</link>
+    </image>
+    
+    <item>
+      <title>Constraining Galaxy Overdensities around Three z 6.5 Quasars with ALMA and MUSE</title>
+      <link>https://rameyer.github.io/publication/muse_alma_scuba_qsooverdensity/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://rameyer.github.io/publication/muse_alma_scuba_qsooverdensity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical constraints on the extended interstellar medium of the z=6.42 quasar J1148&#43;5251: CII 158um, NII 205um and OI 146um observations</title>
+      <link>https://rameyer.github.io/publication/j1148p5251_lines/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://rameyer.github.io/publication/j1148p5251_lines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
