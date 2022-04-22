@@ -5,12 +5,20 @@
     <link>https://rameyer.github.io/tag/quasars/</link>
       <atom:link href="https://rameyer.github.io/tag/quasars/index.xml" rel="self" type="application/rss+xml" />
     <description>Quasars</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2019 14:05:19 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rameyer.github.io/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_3.png</url>
       <title>Quasars</title>
       <link>https://rameyer.github.io/tag/quasars/</link>
     </image>
+    
+    <item>
+      <title>Constraining Galaxy Overdensities around Three z 6.5 Quasars with ALMA and MUSE</title>
+      <link>https://rameyer.github.io/publication/muse_alma_scuba_qsooverdensity/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://rameyer.github.io/publication/muse_alma_scuba_qsooverdensity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New Constraints on Quasar Evolution: Broad Line Velocity Shifts over 1.5≲z≲7.5</title>
