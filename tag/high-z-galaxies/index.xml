@@ -5,7 +5,7 @@
     <link>https://rameyer.github.io/tag/high-z-galaxies/</link>
       <atom:link href="https://rameyer.github.io/tag/high-z-galaxies/index.xml" rel="self" type="application/rss+xml" />
     <description>High-z galaxies</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rameyer.github.io/images/icon_huc4fec6236af5f32f701d73ee861afae9_5620_512x512_fill_lanczos_center_3.png</url>
       <title>High-z galaxies</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Constraining Galaxy Overdensities around Three z 6.5 Quasars with ALMA and MUSE</title>
-      <link>https://rameyer.github.io/publication/muse_alma_scuba_qsooverdensity/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://rameyer.github.io/publication/muse_alma_scuba_qsooverdensity/</guid>
+      <title>NOEMA reveals the true nature of luminous red JWST z&gt;10 galaxy candidates</title>
+      <link>https://rameyer.github.io/publication/noemajwstreddropouts/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://rameyer.github.io/publication/noemajwstreddropouts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Physical constraints on the extended interstellar medium of the z=6.42 quasar J1148&#43;5251: CII 158um, NII 205um and OI 146um observations</title>
-      <link>https://rameyer.github.io/publication/j1148p5251_lines/</link>
+      <title>Constraining Galaxy Overdensities around Three z 6.5 Quasars with ALMA and MUSE</title>
+      <link>https://rameyer.github.io/publication/muse_alma_scuba_qsooverdensity/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://rameyer.github.io/publication/j1148p5251_lines/</guid>
+      <guid>https://rameyer.github.io/publication/muse_alma_scuba_qsooverdensity/</guid>
       <description></description>
     </item>
     
