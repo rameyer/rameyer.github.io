@@ -3,7 +3,7 @@
 
 title: "The role of galaxies and AGN in reionising the IGM - III : IGM-galaxy cross-correlations at $z\\sim 6$ from 8 quasar fields with DEIMOS and MUSE"
 authors: [R.A. Meyer, K. Kakiichi, S.E.I. Bosman, R.S. Ellis, N. Laporte, B.E. Robertson, E.V. Ryan-Weber, K. Mawatari, A. Zitrin]
-date: 2020-24-04T14:04:54+01:00
+date: 2020-04-04T14:04:54+01:00
 doi: " 	10.1093/mnras/staa746"
 
 # Schedule page publish date (NOT publication's date).
