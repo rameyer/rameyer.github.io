@@ -1,0 +1,11 @@
+github_users:
+  - rameyer
+
+repo_description_lines_max: 2
+
+github_repos:
+  - rameyer/fresco
+  - interferopy/interferopy
+  - rameyer/QUICfit
+  - rameyer/eBOSSLens
+
