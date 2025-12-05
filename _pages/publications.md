@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-You can also find my publications on [NASA ADS](https://ui.adsabs.harvard.edu/user/libraries/HR6Td7P0QgWAkVnk55VL7Q) or [ORCid](https://orcid.org/0000-0001-5492-4522).
+You can also find my publications on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/HR6Td7P0QgWAkVnk55VL7Q) or [ORCid](https://orcid.org/0000-0001-5492-4522).
 
 <!-- _pages/publications.md -->
 
