@@ -104,6 +104,7 @@
 
 - title: Third-party and Grant Funding
   type: nested_list
+  contents:
     - title: STSci GO#7208 Grant (170'000 $)
       items:
         - Funding for JWST PI program 7208, administered by US Admin co-PI Christina Williams 
