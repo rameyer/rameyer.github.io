@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-finally-remade-my-website-after-the-jwst-and-erc-deadline",
+        },{id: "news-finally-remade-my-website-after-the-jwst-and-erc-deadline",
           title: 'Finally remade my website after the JWST and ERC deadline!',
           description: "",
           section: "News",},{id: "news-stsci-approved-170-000-of-funding-for-my-cycle-4-jwst-program-7208-this-will-be-administered-by-us-admin-pi-christina-williams-at-university-of-arizona",
