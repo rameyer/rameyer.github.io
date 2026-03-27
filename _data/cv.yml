@@ -55,9 +55,10 @@
 - title: Awarded PI observing time
   type: nested_list
   contents:
-    - title: JWST NIRSpec MSA - 108h (2026
+    - title: JWST NIRSpec MSA - 108h (2026)
+      url: https://www.stsci.edu/jwst/science-execution/program-information?id=11371
       items:
-        - “Mapping Reionisation in 3D in the COSMOS field” ([GO5#11371](https://www.stsci.edu/jwst/science-execution/program-information?id=11371) )
+        - “Mapping Reionisation in 3D in the COSMOS field” (GO5#11371)
     - title: VLT/FORS2 - 84h (2026)
       items:
         - “Mapping Reionisation in 3D in the COSMOS field” (117.29KC)
@@ -66,6 +67,7 @@
         - “Weighing the molecular gas reservoirs of UV-faint, yet FIR-luminous z>6 quasars”
     - title: JWST NIRSpec IFU SURVEY - 236.2h (2025)
       items:
+      url: https://www.stsci.edu/jwst/science-execution/program-information?id=7208
         - “THRIFTY The High-RedshIft FronTier surveY” (Cycle 4, #7208)
     - title: IRAM/NOEMA Band 3 - 30h (2024)
       items:
@@ -77,6 +79,7 @@
       items:
         - “Characterising a z ∼ 6 gravitationally-lensed BAL quasar candidate” (113.26CY)
     - title: JWST NIRSpec IFU - 10.5h (2022)
+      url: https://www.stsci.edu/jwst/science-execution/program-information?id=3767
       items:
         - “Characterizing the Source of Ionising Photons in the Epoch of Reionization” (#3767)
     - title: Gemini (DDT) Flamingos-2 - 4.2h (2022)
