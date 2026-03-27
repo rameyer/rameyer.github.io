@@ -55,6 +55,9 @@
 - title: Awarded PI observing time
   type: nested_list
   contents:
+    - title: JWST NIRSpec MSA - 108h (2026
+      items:
+        - “Mapping Reionisation in 3D in the COSMOS field” ([GO5#11371](https://www.stsci.edu/jwst/science-execution/program-information?id=11371) )
     - title: VLT/FORS2 - 84h (2026)
       items:
         - “Mapping Reionisation in 3D in the COSMOS field” (117.29KC)
