@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - rameyer/cosmos3d
   - rameyer/fresco
   - interferopy/interferopy
   - rameyer/QUICfit
